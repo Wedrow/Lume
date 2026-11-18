@@ -17,7 +17,7 @@ This guide covers environment setup across GPU and CPU platforms, running the de
 Clone the repository and create a virtual environment:
 
 ```bash
-git clone https://github.com/ledrodh/Lume.git
+git clone https://github.com/Wedrow/Lume.git
 cd Lume
 python -m venv venv
 ```

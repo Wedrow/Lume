@@ -1,6 +1,6 @@
 # Lume
 
-[![Lume CI & Validation Pipeline](https://github.com/ledrodh/Lume/actions/workflows/ci.yml/badge.svg)](https://github.com/ledrodh/Lume/actions/workflows/ci.yml)
+[![Lume CI & Validation Pipeline](https://github.com/Wedrow/Lume/actions/workflows/ci.yml/badge.svg)](https://github.com/Wedrow/Lume/actions/workflows/ci.yml)
 ![Python 3.10–3.12](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)
 ![EPUB 3.3 OCF](https://img.shields.io/badge/EPUB-3.3%20OCF%20Validated-success)
 
@@ -108,7 +108,7 @@ Evaluated on a 334-page academic philosophical treatise (*O Trabalhador — Dom�
 
 1. **Clone the repository and create a virtual environment:**
    ```bash
-   git clone https://github.com/ledrodh/Lume.git
+   git clone https://github.com/Wedrow/Lume.git
    cd Lume
    python -m venv venv
    ```
